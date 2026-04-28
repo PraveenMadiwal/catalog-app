@@ -90,3 +90,39 @@ background:white;
 padding:12px;
 border-radius:10px;
 }
+.detail-header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+gap:15px;
+flex-wrap:wrap;
+margin-bottom:10px;
+}
+
+.detail-header h1{
+margin:0;
+font-size:32px;
+color:#111827;
+}
+
+.back-btn{
+display:inline-block;
+padding:10px 16px;
+background:#25bdeb;
+color:white;
+text-decoration:none;
+border-radius:8px;
+font-size:14px;
+font-weight:600;
+transition:all 0.3s ease;
+box-shadow:0 4px 10px rgba(37,99,235,0.25);
+}
+
+.back-btn:hover{
+background:#475681;
+transform:translateY(-2px);
+}
+
+.back-btn:active{
+transform:scale(0.98);
+} 
