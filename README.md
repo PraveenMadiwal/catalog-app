@@ -10,7 +10,7 @@ Clean Architecture
 Tech Stack:
 React.js | React Router | CSS
 
-Live Demo: (Netlify Link)
-GitHub: (GitHub Link)
+Live Demo: ([Netlify Link](https://catalog-app-ui.netlify.app/))
+GitHub: ([GitHub Link](https://github.com/PraveenMadiwal/catalog-app))
 
 #reactjs #frontenddeveloper #javascript #webdevelopment #assignment #hiring
